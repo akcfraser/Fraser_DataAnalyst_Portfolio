@@ -33,5 +33,18 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
 
 # [Project 3: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
 * Extracted financial data such as historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After data collection, I visualized the data in a dashboard to identify patterns or trends. 
- * The stocks worked with are Tesla, Amazon, AMD, and GameStop.
- * Software used: IBM Watson 
+  * The stocks worked with are Tesla, Amazon, AMD, and GameStop.
+  * Software used: IBM Watson 
+
+# [Project 4: SQL Queries Sample]()
+* Using Jupyter Notebooks, I composed and executed SQL queries to answer the following questions:
+  * Find the total number of crimes recorded in the CRIME table.
+  * List community areas with per capita income less than 11000.
+  * List all case numbers for crimes involving minors?
+  * List all kidnapping crimes involving a child?(children are not considered minors for the purposes of crime analysis)
+  * What kind of crimes were recorded at schools?
+  * List the average safety score for all types of schools.
+  * List 5 community areas with highest % of households below poverty line.
+  * Which community area(number) is most crime prone?
+  * Use a sub-query to find the name of the community area with highest hardship index.
+  * Use a sub-query to determine the Community Area Name with most number of crimes?
