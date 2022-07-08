@@ -10,3 +10,23 @@ Data Analyst Portfolio
 * Created a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section. Secondly, I sorted the pivot table to sort the table in descending order by the sum of equipment count.
 * Created two additional pivot tables to match the aforementioned pivot table. In the second pivot table, I added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts. Secondly, I collapsed all fields except the Transportation field.
 * In pivot table 3, I added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts. Secondly, I collapseed all fields except the CUV field. 
+
+# [Project 2A: Creating Charts in Excel]()
+* Created a "Quantity Sold by Dealer ID" bar chart.
+* Created a "Profit by Date and Model" line chart.
+* Created a "Profit by Year and Dealer ID" column chart.
+Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I removed the horizontal gridlines from the chart, put the legend on the right side of the chart, and coloured the series outline in green. 
+
+# [Project 2B: Creating Visualisations with IBM Cognos]()
+* Created a "Sales" dashboard to capture the following KPI metrics:
+  * In Panel 1, show Profit formatted to 1 decimal place in millions of US dollars. 
+  * In Panel 2, capture Quantity sold.
+  * In Panel 3, capture Quantity sold by model as a bar chart.
+  * In Panel 4, capture Average quantity sold.
+  * In Panel 5, display 'Profit' by 'Dealer ID' as a column chart, sorted in ascending order.
+* Created a "Services" dashboard to capture the following KPI metrics:
+  * In Panel 1, capture the number of recalls per model of car as a column chart.
+  * In Panel 2, capture the customer sentiment by comparing positive, neutral, and negative reviews as a treemap.
+  * In Panel 3, capture the quantity of cars sold per month compared to the profit as a line and column chart.
+  * In Panel 4, capture the number of recalls by model and affected system as a heat map. 
+* Exported the Services and Sales Dashboard as a combined PDF. 
