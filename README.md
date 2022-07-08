@@ -57,7 +57,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
 
 # [Project 4: SQL Queries - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/DB0201EN-PeerAssign-v5.ipynb)
 * Using Jupyter Notebooks, I composed and executed SQL queries to answer the following questions:
-  * Find the total number of crimes recorded in the CRIME table.
+  * Find the total number of crimes recorded in the "crime" table.
   * List community areas with per capita income less than 11000.
   * List all case numbers for crimes involving minors?
   * List all kidnapping crimes involving a child?
