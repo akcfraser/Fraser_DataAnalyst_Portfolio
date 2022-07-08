@@ -40,7 +40,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * In Panel 4, capture Average quantity sold.
   * In Panel 5, display 'Profit' by 'Dealer ID' as a column chart, sorted in ascending order.
   
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/aa4cb3ccdbda52fc7e23df56ee7fc3bf48bc62a3/images/Sales%20Dashboard%20image.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Sales%20Dashboard%20image.png)
 
 * Created a "Services" dashboard to capture the following KPI metrics:
   * In Panel 1, capture the number of recalls per model of car as a column chart.
@@ -48,7 +48,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * In Panel 3, capture the quantity of cars sold per month compared to the profit as a line and column chart.
   * In Panel 4, capture the number of recalls by model and affected system as a heat map. 
   
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Services%20Dashboard%20Image.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Services%20Dashboard%20Image.png)
 
 # [Project 3: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
 * Extracted financial data such as historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After data collection, I visualized the data in a dashboard to identify patterns or trends. 
