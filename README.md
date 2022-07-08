@@ -18,19 +18,19 @@ Data Analyst Portfolio
 # [Project 2A: Creating Charts in Excel](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/CarSalesByModelEnd.xlsx)
 * Created a "Quantity Sold by Dealer ID" bar chart.
 
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.29%20am.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.28.29%20am.png)
 
 * Created a "Profit by Date and Model" line chart.
 
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.41%20am.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.28.41%20am.png)
 
 * Created a "Profit by Year and Dealer ID" column chart.
 
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.51%20am.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.28.51%20am.png)
 
 Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I removed the horizontal gridlines from the chart, put the legend on the right side of the chart, and coloured the series outline in green. 
 
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.29.01%20am.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.29.01%20am.png)
 
 # [Project 2B: Creating Visualisations with IBM Cognos](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Sales%20and%20Service%20Dashboards.pdf)
 * Created a "Sales" dashboard to capture the following KPI metrics:
