@@ -36,7 +36,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * The stocks worked with are Tesla, Amazon, AMD, and GameStop.
   * Software used: IBM Watson 
 
-# [Project 4: SQL Queries Sample]()
+# [Project 4: SQL Queries - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/DB0201EN-PeerAssign-v5.ipynb)
 * Using Jupyter Notebooks, I composed and executed SQL queries to answer the following questions:
   * Find the total number of crimes recorded in the CRIME table.
   * List community areas with per capita income less than 11000.
