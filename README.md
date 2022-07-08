@@ -11,9 +11,9 @@ Data Analyst Portfolio
 * Created two additional pivot tables to match the aforementioned pivot table. In the second pivot table, I added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts. Secondly, I collapsed all fields except the Transportation field.
 * In pivot table 3, I added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts. Secondly, I collapseed all fields except the CUV field. 
 
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/a5fa34476a155226fd7ce125402a19e7531619bb/images/PT%20-%20Department%20and%20Sum%20of%20Equipment.png)
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/a5fa34476a155226fd7ce125402a19e7531619bb/images/PT%20-%20Department%20and%20Sum%20of%20Equipment.png)
-![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/a5fa34476a155226fd7ce125402a19e7531619bb/images/PT%20-%20Department%20and%20Sum%20of%20Equipment.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/PT%20-%20Department%20and%20Sum%20of%20Equipment.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/PT%20-%20Department%3AType%20and%20Sum%20of%20Equipment%20COUNT.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/PT%20-%20Equipment%20Class%20and%20Sum%20of%20Equipment.png)
 
 # [Project 2A: Creating Charts in Excel](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/CarSalesByModelEnd.xlsx)
 * Created a "Quantity Sold by Dealer ID" bar chart.
