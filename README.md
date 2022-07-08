@@ -18,19 +18,19 @@ Data Analyst Portfolio
 # [Project 2A: Creating Charts in Excel](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/CarSalesByModelEnd.xlsx)
 * Created a "Quantity Sold by Dealer ID" bar chart.
 
-![](/images/Screenshot%202022-07-08%20at%209.28.29%20am.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.29%20am.png)
 
 * Created a "Profit by Date and Model" line chart.
 
-![](/images/Screenshot%202022-07-08%20at%209.28.41%20am.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.41%20am.png)
 
 * Created a "Profit by Year and Dealer ID" column chart.
 
-![](/images/Screenshot%202022-07-08%20at%209.28.51%20am.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.28.51%20am.png)
 
 Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I removed the horizontal gridlines from the chart, put the legend on the right side of the chart, and coloured the series outline in green. 
 
-![](/images/Screenshot%202022-07-08%20at%209.29.01%20am.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Screenshot%202022-07-08%20at%209.29.01%20am.png)
 
 # [Project 2B: Creating Visualisations with IBM Cognos](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Sales%20and%20Service%20Dashboards.pdf)
 * Created a "Sales" dashboard to capture the following KPI metrics:
@@ -40,7 +40,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * In Panel 4, capture Average quantity sold.
   * In Panel 5, display 'Profit' by 'Dealer ID' as a column chart, sorted in ascending order.
   
-![](/images/Sales%20Dashboard%20image.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/aa4cb3ccdbda52fc7e23df56ee7fc3bf48bc62a3/images/Sales%20Dashboard%20image.png)
 
 * Created a "Services" dashboard to capture the following KPI metrics:
   * In Panel 1, capture the number of recalls per model of car as a column chart.
@@ -48,7 +48,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * In Panel 3, capture the quantity of cars sold per month compared to the profit as a line and column chart.
   * In Panel 4, capture the number of recalls by model and affected system as a heat map. 
   
-![](/images/Services%20Dashboard%20Image.png)
+![](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/c3f31bf84df6dae1cb002b6ea301f259c10fa921/images/Services%20Dashboard%20Image.png)
 
 # [Project 3: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
 * Extracted financial data such as historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After data collection, I visualized the data in a dashboard to identify patterns or trends. 
