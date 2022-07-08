@@ -31,7 +31,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   * In Panel 4, capture the number of recalls by model and affected system as a heat map. 
 * Exported the Services and Sales Dashboard as a combined PDF. 
 
-# [Project 3: Python for Data Science Project]()
+# [Project 3: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
 * Extracted financial data such as historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After data collection, I visualized the data in a dashboard to identify patterns or trends. 
  * The stocks worked with are Tesla, Amazon, AMD, and GameStop.
  * Software used: IBM Watson 
