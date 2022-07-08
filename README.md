@@ -1,4 +1,4 @@
-# Fraser_DA_Portfolio
+# Fraser_DataAnalyst_Portfolio
 Data Analyst Portfolio 
 
 # [Project 1A: Importing and Data Cleaning in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
