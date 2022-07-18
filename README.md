@@ -1,11 +1,14 @@
 # Fraser_DataAnalyst_Portfolio
 Data Analyst Portfolio 
 
-# [Project 1A: Importing and Data Cleaning in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
+# [Project 1: Sleep Study - Exercise and Sleep on Energy Levels][]
+* 
+
+# [Project 2A: Importing and Data Cleaning in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
 * Cleaning and importing another department's inventory data in Microsoft Excel. 
 * Adjusted column widths, removed empty rows, used conditional formating to identify and remove duplicate records, fixed spelling errors, removed additional white spaces, and correctly merged and formatted department names. 
 
-# [Project 1B: Pivot Tables and Basic Calculations in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
+# [Project 2B: Pivot Tables and Basic Calculations in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
 * Formatted the data as a table and calculated the following values: SUM, AVERAGE, MIN, MAX, COUNT.
 * Created a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section. Secondly, I sorted the pivot table to sort the table in descending order by the sum of equipment count.
 * Created two additional pivot tables to match the aforementioned pivot table. In the second pivot table, I added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts. Secondly, I collapsed all fields except the Transportation field.
@@ -15,7 +18,7 @@ Data Analyst Portfolio
 ![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/PT%20-%20Department%3AType%20and%20Sum%20of%20Equipment%20COUNT.png)
 ![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/PT%20-%20Equipment%20Class%20and%20Sum%20of%20Equipment.png)
 
-# [Project 2A: Creating Charts in Excel](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/CarSalesByModelEnd.xlsx)
+# [Project 3A: Creating Charts in Excel](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/CarSalesByModelEnd.xlsx)
 * Created a "Quantity Sold by Dealer ID" bar chart.
 
 ![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.28.29%20am.png)
@@ -32,7 +35,7 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
 
 ![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Screenshot%202022-07-08%20at%209.29.01%20am.png)
 
-# [Project 2B: Creating Visualisations with IBM Cognos](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Sales%20and%20Service%20Dashboards.pdf)
+# [Project 3B: Creating Visualisations with IBM Cognos](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Sales%20and%20Service%20Dashboards.pdf)
 * Created a "Sales" dashboard to capture the following KPI metrics:
   * In Panel 1, show Profit formatted to 1 decimal place in millions of US dollars. 
   * In Panel 2, capture Quantity sold.
@@ -50,12 +53,12 @@ Created a "Profit of Hudson Models by Dealer ID" line chart. Additionally, I rem
   
 ![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Services%20Dashboard%20Image.png)
 
-# [Project 3: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
+# [Project 4: Python for Data Science Project](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Python%20Data%20Science%20Project.ipynb)
 * Extracted financial data such as historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After data collection, I visualized the data in a dashboard to identify patterns or trends. 
   * The stocks worked with are Tesla, Amazon, AMD, and GameStop.
   * Software used: IBM Watson 
 
-# [Project 4: SQL Queries - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/DB0201EN-PeerAssign-v5.ipynb)
+# [Project 5: SQL Queries - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/DB0201EN-PeerAssign-v5.ipynb)
 * Using Jupyter Notebooks, I composed and executed SQL queries to answer the following questions:
   * Find the total number of crimes recorded in the "crime" table.
   * List community areas with per capita income less than 11000.
