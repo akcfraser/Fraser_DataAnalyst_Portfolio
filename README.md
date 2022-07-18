@@ -4,7 +4,10 @@ Data Analyst Portfolio
 # [Project 1: Sleep Study - Exercise and Sleep on Energy Levels](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/main/Sleep%20Study%20Combined.pdf)
 * Record qualitative and quantitative data in a Google Sheets spreadsheet and create a secondary sheet to include a legend outlining the format of each data type. [View data.](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/main/Sleep%20Study%20Data.pdf)
 * Clean data after collection and analyse the data to identify patterns and create solutions. [View analysis.](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/main/Sleep_Study_Overview.pdf)
-* Once data analysis is complete, create a data visualisation using Tableau Public to easily share results in an easy-to-understand format. [View visualisation.](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/main/Sleep%20Study%20Dashboard.pdf) 
+* Once data analysis is complete, create a data visualisation using Tableau Public to easily share results in an easy-to-understand format. [View visualisation.](https://github.com/akcfraser/Fraser_DataAnalyst_Portfolio/blob/main/Sleep%20Study%20Dashboard.pdf)
+
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Sleep%20Dashboard%20Image%201.png)
+![](https://raw.githubusercontent.com/akcfraser/Fraser_DataAnalyst_Portfolio/main/images/Sleep%20Dashboard%20Image%202.png)
 
 # [Project 2A: Importing and Data Cleaning in Excel - Sample](https://github.com/akcfraser/Fraser_DA_Portfolio/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
 * Cleaning and importing another department's inventory data in Microsoft Excel. 
